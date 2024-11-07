@@ -1,0 +1,5 @@
+export default {
+  html: "Html Course ",
+  css: "Css Course",
+  js: "JavaScript Course",
+};

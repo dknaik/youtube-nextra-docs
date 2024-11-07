@@ -15,18 +15,18 @@ const config: DocsThemeConfig = {
     link: "https://github.com/shuding/nextra-docs-template",
   },
   chat: {
-    link: "https://www.youtube.com/@JBWEBDEVELOPER",
+    link: "#",
     icon: (
       <>
         <img
           style={{ width: "35px" }}
-          src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
+          src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png"
           alt=""
         />
       </>
     ),
   },
-  docsRepositoryBase: "https://github.com/shuding/nextra-docs-template",
+  docsRepositoryBase: "https://github.com/wpfolk/altuser",
   footer: {
     text: "Nextra Docs Template",
   },

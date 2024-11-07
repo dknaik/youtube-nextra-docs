@@ -28,7 +28,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: "https://github.com/wpfolk/altuser",
   footer: {
-    text: "Nextra Docs Template",
+    component: <span>Nextra Docs Template</span>,
   },
 };
 
